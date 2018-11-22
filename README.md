@@ -4,6 +4,7 @@ Mongodb URL: mongodb://user:password123@ds115094.mlab.com:15094/commodity
 
 # To Start express server:
 npm install
+
 npm start
 
 # API Endpoint:
