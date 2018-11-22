@@ -1,0 +1,10 @@
+[
+    {
+        "id":123213123,
+        "current_price":{
+            "value":13.49,
+            "currency_code":"USD",
+            "commodity_desc":"Oil"
+        }
+    }
+]
