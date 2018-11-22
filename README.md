@@ -1,8 +1,9 @@
-# nodejs_mongodb_crud (created on 23 Nov 2018)
-nodejs mongodb express crud operation
+# Nodejs Mongodb CRUD Operations (created on 23 Nov 2018 for Technical Assignment - Pentaur Technology)
+nodejs mongodb express mongoose express-basic-auth
 Mongodb URL: mongodb://user:password123@ds115094.mlab.com:15094/commodity
 
 # To Start express server:
+npm install
 npm start
 
 # API Endpoint:
@@ -15,7 +16,9 @@ http://localhost:3000/commodity/1234
 
 # Basic Auth credential:
 username : admin
+
 password : supersecret
+
 
 # API Controller: 
 /* CRUD commodity APIs. */
